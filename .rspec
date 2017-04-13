@@ -1,0 +1,4 @@
+I ./tempate_spec.rb
+--color red
+--example "should substitute"
+--format <%= true ? 'documentation' : 'progress' %>
